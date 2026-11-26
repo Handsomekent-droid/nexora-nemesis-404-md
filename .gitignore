@@ -1,0 +1,9 @@
+node_modules/
+vendor/
+sessions/
+data/
+.env
+*.log
+npm-debug.log*
+.DS_Store
+package-lock.json
