@@ -7,3 +7,6 @@ data/
 npm-debug.log*
 .DS_Store
 package-lock.json
+.env
+.env.example
+.env.example
